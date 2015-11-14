@@ -58,6 +58,7 @@
         <module>vtn</module>
         <module>vtnweb</module>
         <module>dhcp</module>
+        <module>soma-fwd</module>
     </modules>
 
     <properties>
